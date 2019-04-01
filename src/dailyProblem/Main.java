@@ -16,7 +16,7 @@ public class Main {
 
 	}
 
-	private static int longetstSubString(String s, int k) {
+	public static int longetstSubString(String s, int k) {
 		
 		int count = k;
 		int start = 0;
